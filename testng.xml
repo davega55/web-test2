@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+    <test name="">
+        <classes>
+            <class name="org.naic.mfl.se.challenge.WebTest">
+                <methods></methods>
+            </class>
+
+        </classes>
+    </test>
+
+</suite>
